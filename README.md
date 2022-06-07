@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React - Quiz - APP
+[LIVE Demo](https://rebrand.ly/react-quiz-app)
 
 ## Available Scripts
 
