@@ -1,4 +1,4 @@
-# React - Quiz - APP
+# React Quiz Application
 [LIVE Demo](https://rebrand.ly/react-quiz-app)
 
 ## Available Scripts
